@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Apple India Website Landing Page</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/"><img src="data:image/jpeg;base64,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" width="25" height="25"></a></li>
+                <li><a href="#">Mac</a></li>
+                <li><a href="#">iPad</a></li>
+                <li><a href="#">iPhone</a></li>
+                <li><a href="#">Watch</a></li>
+                <li><a href="#">TV</a></li>
+                <li><a href="#">Music</a></li>
+                <li><a href="#">Support</a></li>
+                <li><a href="#">Where to buy</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="banner" id="banner_one">
+            <h1>iPhone SE</h1>
+            <h2>Lots of love. Less to spend.</h2>
+            <p><a href="/">Learn more ></a></p>
+        </div>
+
+        <div class="banner" id="banner_two">
+            <h1>iPhone 11</h1>
+            <h2>Just the right amount of everything.</h2>
+            <p><a href="/">Learn more ></a></p>
+        </div>
+
+        <div class="banner" id="banner_three">
+            <h1>iPhone 11 Pro</h1>
+            <h2>Pro cameras. Pro display. Pro performance.</h2>
+            <p><a href="/">Learn more ></a></p>
+        </div>
+
+        <div class="category">
+            <div class="box" id="box1">
+                <h1>WWDC20</h1>
+                <h2>Take a look at all of the announcements.</h2> <br>
+                <p><a href="/">Watch the keynote on our US site ></a></p>
+            </div>
+            <div class="box" id="box2">
+                <h1>Watch</h1>
+                <p class="label">Series 5</p>
+                <h2>With the Always-On Retina Display.</h2>
+                <p><a href="/">Learn more ></a></p>
+            </div>
+        </div>
+        <div class="category">
+            <div class="box" id="box3">
+                <h1>MacBook Pro</h1>
+                <h2>Power. Moves.</h2> <br>
+                <p><a href="/">Learn more ></a></p>
+            </div>
+            <div class="box" id="box4">
+                <h1>iPad Pro</h1>
+                <h2>Your next computer is not a computer.</h2>
+                <p><a href="/">Learn more ></a></p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>*Subscription required. ₹99/month after free trial. No commitment. Plan automatically renews after trial until cancelled.
+            </p><br>
+            <p>Apple TV+ is ₹99/month after free trial. One subscription per Family Sharing group. Offer is valid for 3 months after eligible device activation. Plan automatically renews until cancelled. Restrictions and other terms apply.
+            </p><br>
+            <p>Magic Keyboard is sold separately.</p><br>
+            <hr><br>
+            <p>
+                Copyright &copy; 2020
+            </p>
+        </div>
+    </footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
